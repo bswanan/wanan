@@ -5,13 +5,13 @@ include 'inc.php';
 $key = 'Hcw3.cn';
 
 //图片上的水印文字，
-$watermark = 'Hcw3.cn';
+$watermark = 'wanan';
 
 //网站域名，需要带http或https例如：https://www.hcw3.cn
-$homeurl = 'https://www.hcw3.cn';
+$homeurl = 'https://bswanan.github.io/wanan';
 
 //关于页面内容，支持html代码
-$about = '<h2>Www.Hcw3.cn</h2>';
+$about = '<h2>wanan/h2>';
 
 //网站title
 $title = '红尘资源网 - Hcw3.cn';
@@ -25,4 +25,4 @@ $headinfo = '<div class="col-md-offset-2 col-md-8 text-center">
 $footerinfo = 'Photos by <a rel="nofollow" href="https://www.hcw3.cn/category-2.html" target="_blank">红尘资源网</a>';
 
 //显示在页面正中间上方的网站名称字样
-$webname = '红尘资源网';
+$webname = '不说晚安';
